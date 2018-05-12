@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38104
     wikipedia: http://en.wikipedia.org/wiki/George_Gem%C3%BCnder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36147#George-Gem-nder-s-Progress-in-Violin-MakingWith-Interesting-Facts-Concerning-the-Art-and-Its-_
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
 identifiers:
