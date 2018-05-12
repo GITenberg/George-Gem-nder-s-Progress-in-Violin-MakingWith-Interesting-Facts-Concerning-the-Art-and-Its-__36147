@@ -1,0 +1,33 @@
+_repo: George-Gem-nder-s-Progress-in-Violin-MakingWith-Interesting-Facts-Concerning-the-Art-and-Its-__36147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gemünder, George
+    aliases:
+    - Gemünder, Georg
+    - Gemunder, George
+    - Gemünder, Johann Georg
+    birthdate: 1816
+    deathdate: 1899
+    gutenberg_agent_id: '38104'
+    url: http://www.gutenberg.org/2009/agents/38104
+    wikipedia: http://en.wikipedia.org/wiki/George_Gem%C3%BCnder
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Violin -- Construction'
+title: 'George Gemünder''s Progress in Violin Making
+
+  With Interesting Facts Concerning the Art and Its Critics in General'
+url: http://www.gutenberg.org/ebooks/36147
